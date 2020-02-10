@@ -1,0 +1,120 @@
+h1 {
+    background-color: white;
+    text-align: center;
+}
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+p{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color:white;
+    text-align: center;
+    width: 100%;
+}
+.input9 {
+    border: 2px solid dimgrey;
+  border-radius: 5px;
+  width: 100%;
+  background-color: red;
+
+
+
+
+}
+
+.input1 {
+    border: 2px solid dimgrey;
+  border-radius: 5px;
+  width: 100%;
+  background-color: red;
+
+
+
+
+}
+
+.input2 {
+    border: 2px solid dimgrey;
+  border-radius: 5px;
+  width: 100%;
+  background-color: red;
+
+
+
+
+}
+
+.input3 {
+    border: 2px solid dimgrey;
+  border-radius: 5px;
+  width: 100%;
+  background-color: wheat;
+
+
+
+
+}
+
+.input4 {
+    border: 2px solid dimgrey;
+  border-radius: 5px;
+  width: 100%;
+  background-color: wheat;
+
+
+
+
+}
+
+.input5 {
+    border: 2px solid dimgrey;
+  border-radius: 5px;
+  width: 100%;
+  background-color:wheat;
+
+
+
+
+}
+
+.input6 {
+    border: 2px solid dimgrey;
+  border-radius: 5px;
+  width: 100%;
+  background-color:green;
+
+
+
+
+}
+.input7 {
+    border: 2px solid dimgrey;
+  border-radius: 5px;
+  width: 100%;
+  background-color:green;
+
+
+
+
+}
+.input8 {
+    border: 2px solid dimgrey;
+  border-radius: 5px;
+  width: 100%;
+  background-color:green;
+
+
+
+
+}
+button{
+    border: 2px solid cadetblue;
+  border-radius: 5px;
+    width: 100%;
+    background-color:cadetblue;
+}
